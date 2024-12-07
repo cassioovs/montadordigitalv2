@@ -109,7 +109,6 @@ export const typography = {
     fontWeight: 600,
     lineHeight: 22 / 14,
     fontSize: pxToRem(14),
-    fontWeight: 'bold'
   },
   body1: {
     lineHeight: 1.2,

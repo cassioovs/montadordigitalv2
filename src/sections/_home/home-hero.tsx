@@ -16,10 +16,6 @@ import { paths } from 'src/routes/paths';
 
 // JIVO CHAT
 
-import { AppProps } from 'next/app'
-import Script from 'next/script'
-
-
 
 // IMPORTAÇÕES DEMAIS ITENS
 
@@ -93,7 +89,7 @@ export default function HomeHero() {
               </Button>
 
               <Stack spacing={3}>
-              <Typography variant="subtitle2" sx={{ color: 'info.main', }}>
+              <Typography variant="subtitle2" sx={{ color: 'info.main', fontWeight: 'bold'}}>
     DISPONIBILIDADE
   </Typography>
   <Typography variant="overline" sx={{color: 'warning.main', fontWeight: 'bold' }}>

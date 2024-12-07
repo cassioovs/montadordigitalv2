@@ -14,9 +14,6 @@ import { SettingsDrawer, SettingsProvider } from 'src/components/settings';
 
 // JIVO CHAT
 
-import Script from 'next/script';
-
-
 
 // ----------------------------------------------------------------------
 
