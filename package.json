@@ -8,7 +8,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "build-netlify": "next build && cp -r .next _next && mv _next .next/",
+    "build-netlify": "next build && cp -r .next _next && mv _next .next/"
   },
   "dependencies": {
     "@emotion/cache": "^11.11.0",
